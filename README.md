@@ -1,0 +1,2 @@
+# discordBotOCR
+Discord Bot - OCR
