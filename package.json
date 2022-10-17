@@ -1,0 +1,31 @@
+{
+  "name": "discordbotocr",
+  "version": "1.0.0",
+  "description": "Discord OCR Bot",
+  "main": "discordBotOCR.js",
+  "dependencies": {
+    "discord-reply": "^0.1.2",
+    "encoding": "^0.1.13",
+    "eslint": "^8.25.0",
+    "tesseract.js": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogn4621/discordBotOCR.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ocr"
+  ],
+  "author": "Russ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ogn4621/discordBotOCR/issues"
+  },
+  "homepage": "https://github.com/ogn4621/discordBotOCR#readme"
+}
